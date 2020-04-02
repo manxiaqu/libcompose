@@ -3,7 +3,7 @@ package project
 import (
 	"bytes"
 
-	"github.com/docker/libcompose/project/events"
+	"github.com/manxiaqu/libcompose/project/events"
 	"github.com/sirupsen/logrus"
 )
 

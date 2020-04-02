@@ -18,10 +18,10 @@ import (
 	"github.com/docker/docker/pkg/stdcopy"
 	"github.com/docker/docker/pkg/term"
 	"github.com/docker/go-connections/nat"
-	"github.com/docker/libcompose/config"
-	"github.com/docker/libcompose/labels"
-	"github.com/docker/libcompose/logger"
-	"github.com/docker/libcompose/project"
+	"github.com/manxiaqu/libcompose/config"
+	"github.com/manxiaqu/libcompose/labels"
+	"github.com/manxiaqu/libcompose/logger"
+	"github.com/manxiaqu/libcompose/project"
 	"github.com/sirupsen/logrus"
 )
 

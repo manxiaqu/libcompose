@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/docker/libcompose/logger"
+	"github.com/manxiaqu/libcompose/logger"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

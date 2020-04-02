@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"text/template"
 
-	"github.com/docker/libcompose/version"
+	"github.com/manxiaqu/libcompose/version"
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )

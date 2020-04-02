@@ -6,10 +6,10 @@ import (
 	"testing"
 
 	"github.com/docker/docker/api/types/container"
-	"github.com/docker/libcompose/config"
-	"github.com/docker/libcompose/docker/ctx"
-	"github.com/docker/libcompose/lookup"
-	"github.com/docker/libcompose/yaml"
+	"github.com/manxiaqu/libcompose/config"
+	"github.com/manxiaqu/libcompose/docker/ctx"
+	"github.com/manxiaqu/libcompose/lookup"
+	"github.com/manxiaqu/libcompose/yaml"
 	shlex "github.com/flynn/go-shlex"
 	"github.com/stretchr/testify/assert"
 )

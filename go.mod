@@ -1,6 +1,6 @@
 module github.com/manxiaqu/libcompose
 
-go 1.12
+go 1.13
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
@@ -18,17 +18,15 @@ require (
 	github.com/docker/go-connections v0.3.0
 	github.com/docker/go-metrics v0.0.0-20181218153428-b84716841b82 // indirect
 	github.com/docker/go-units v0.4.0
-	github.com/docker/libcompose v0.4.0
+	github.com/docker/libcompose v0.4.0 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/docker/swarmkit v1.12.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/google/uuid v1.1.1 // indirect
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v0.0.0-20160317213430-0eeaf8392f5b // indirect
 	github.com/hashicorp/go-memdb v1.1.2 // indirect
 	github.com/kr/pty v0.0.0-20150511174710-5cf931ef8f76
-	github.com/mattn/go-shellwords v1.0.10 // indirect
 	github.com/morikuni/aec v0.0.0-20170113033406-39771216ff4c // indirect
 	github.com/opencontainers/go-digest v0.0.0-20170106003457-a6d0ee40d420 // indirect
 	github.com/opencontainers/image-spec v0.0.0-20170515205857-f03dbe35d449 // indirect
